@@ -91,3 +91,4 @@ int main() {
 // Commit 5: Adjusted compiler settings and flags
 // Commit 1.1: Removed unused header files
 // Commit 1.2: Improved algorithm performance in sorting
+// Commit 1.3: Enhanced logging for debugging
