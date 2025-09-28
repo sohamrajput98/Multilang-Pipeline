@@ -120,3 +120,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.9: Removed unused variables
 # Commit 2.10: Updated documentation and README
 # Commit 2.11: Updated documentation and README
+# Commit 2.12: Added error handling in main script
