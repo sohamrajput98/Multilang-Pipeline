@@ -89,3 +89,4 @@ int main() {
 // Commit 3: Adjusted compiler settings and flags
 // Commit 4: Fixed memory leak in helper functions
 // Commit 5: Adjusted compiler settings and flags
+// Commit 1.1: Removed unused header files
