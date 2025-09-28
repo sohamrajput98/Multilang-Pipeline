@@ -118,3 +118,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.7: Refactored methods for readability
 # Commit 2.8: Refactored methods for readability
 # Commit 2.9: Removed unused variables
+# Commit 2.10: Updated documentation and README
