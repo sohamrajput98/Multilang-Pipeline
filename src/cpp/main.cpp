@@ -109,3 +109,4 @@ int main() {
 // Commit 1.18: Optimized vector operations for speed
 // Commit 1.19: Fixed memory leak in helper functions
 // Commit 1.20: Implemented error handling in main module
+// Commit 1.21: Removed unused header files
