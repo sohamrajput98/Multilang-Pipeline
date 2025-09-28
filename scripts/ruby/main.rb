@@ -139,3 +139,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.28: Removed unused variables
 # Commit 2.29: Fixed bug in string formatting
 # Commit 2.30: Refactored methods for readability
+# Commit 2.31: Improved performance of loops
