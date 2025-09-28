@@ -101,3 +101,4 @@ int main() {
 // Commit 1.10: Refactored class constructors for readability
 // Commit 1.11: Updated comments and documentation
 // Commit 1.12: Implemented error handling in main module
+// Commit 1.13: Fixed memory leak in helper functions
