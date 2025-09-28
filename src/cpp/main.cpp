@@ -95,3 +95,4 @@ int main() {
 // Commit 1.4: Refactored class constructors for readability
 // Commit 1.5: Refactored class constructors for readability
 // Commit 1.6: Improved algorithm performance in sorting
+// Commit 1.7: Improved algorithm performance in sorting
