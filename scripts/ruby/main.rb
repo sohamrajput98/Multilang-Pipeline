@@ -134,3 +134,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.23: Added error handling in main script
 # Commit 2.24: Refactored methods for readability
 # Commit 2.25: Refactored methods for readability
+# Commit 2.26: Refactored methods for readability
