@@ -106,3 +106,4 @@ int main() {
 // Commit 1.15: Adjusted compiler settings and flags
 // Commit 1.16: Implemented error handling in main module
 // Commit 1.17: Refactored class constructors for readability
+// Commit 1.18: Optimized vector operations for speed
