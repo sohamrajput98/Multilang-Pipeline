@@ -115,3 +115,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.4: Adjusted gem configurations
 # Commit 2.5: Updated documentation and README
 # Commit 2.6: Added error handling in main script
+# Commit 2.7: Refactored methods for readability
