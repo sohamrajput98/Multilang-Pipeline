@@ -105,3 +105,4 @@ int main() {
 // Commit 1.14: Enhanced logging for debugging
 // Commit 1.15: Adjusted compiler settings and flags
 // Commit 1.16: Implemented error handling in main module
+// Commit 1.17: Refactored class constructors for readability
