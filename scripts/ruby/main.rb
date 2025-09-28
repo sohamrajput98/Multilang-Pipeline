@@ -1,0 +1,111 @@
+data = [12, 7, 3, 21, 9, 5]
+
+puts "Original data: #{data}"
+
+data.sort!
+puts "Sorted data: #{data}"
+
+data.map! { |n| n * 3 + 2 }
+puts "Transformed data: #{data}"
+
+sum = data.sum
+puts "Sum of data: #{sum}"
+# Commit 1.1
+# Commit 1.2
+# Commit 1.3
+# Commit 1.4
+# Commit 1.5
+# Commit 1.6
+# Commit 1.7
+# Commit 1.8
+# Commit 1.9
+# Commit 1.10
+# Commit 1.11
+# Commit 1.12
+# Commit 1.13
+# Commit 1.14
+# Commit 1.15
+# Commit 1.16
+# Commit 1.17
+# Commit 1.18
+# Commit 1.19
+# Commit 1.20
+# Commit 1.21
+# Commit 1.22
+# Commit 1.23
+# Commit 1.24
+# Commit 1.25
+# Commit 1.26
+# Commit 1.27
+# Commit 1.28
+# Commit 1.29
+# Commit 1.30
+# Commit 1.31
+# Commit 1.32
+# Commit 1.33
+# Commit 2.1
+# Commit 2.2
+# Commit 2.3
+# Commit 2.4
+# Commit 2.5
+# Commit 2.6
+# Commit 2.7
+# Commit 2.8
+# Commit 2.9
+# Commit 2.10
+# Commit 2.11
+# Commit 2.12
+# Commit 2.13
+# Commit 2.14
+# Commit 2.15
+# Commit 2.16
+# Commit 2.17
+# Commit 2.18
+# Commit 2.19
+# Commit 2.20
+# Commit 2.21
+# Commit 2.22
+# Commit 2.23
+# Commit 2.24
+# Commit 2.25
+# Commit 2.26
+# Commit 2.27
+# Commit 2.28
+# Commit 2.29
+# Commit 2.30
+# Commit 2.31
+# Commit 2.32
+# Commit 2.33
+# Commit 1.1
+# Commit 1.2
+# Commit 1.3
+# Commit 1.4
+# Commit 1.5
+# Commit 1.6
+# Commit 1.7
+# Commit 1.8
+# Commit 1.9
+# Commit 1.10
+# Commit 1.11
+# Commit 1.12
+# Commit 1.13
+# Commit 1.14
+# Commit 1.15
+# Commit 1.16
+# Commit 1.17
+# Commit 1.18
+# Commit 1.19
+# Commit 1.20
+# Commit 1.21
+# Commit 1.22
+# Commit 1.23
+# Commit 1.24
+# Commit 1.25
+# Commit 1.26
+# Commit 1.27
+# Commit 1.28
+# Commit 1.29
+# Commit 1.30
+# Commit 1.31
+# Commit 1.32
+# Commit 1.33
