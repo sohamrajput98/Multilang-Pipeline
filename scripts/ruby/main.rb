@@ -109,3 +109,4 @@ puts "Sum of data: #{sum}"
 # Commit 1.31
 # Commit 1.32
 # Commit 1.33
+# Commit 2.1: Added error handling in main script
