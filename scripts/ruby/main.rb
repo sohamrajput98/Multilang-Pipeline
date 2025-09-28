@@ -113,3 +113,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.2: Updated documentation and README
 # Commit 2.3: Fixed bug in string formatting
 # Commit 2.4: Adjusted gem configurations
+# Commit 2.5: Updated documentation and README
