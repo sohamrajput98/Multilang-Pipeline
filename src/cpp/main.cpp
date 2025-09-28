@@ -113,3 +113,4 @@ int main() {
 // Commit 1.22: Fixed memory leak in helper functions
 // Commit 1.23: Improved algorithm performance in sorting
 // Commit 1.24: Adjusted compiler settings and flags
+// Commit 1.25: Optimized vector operations for speed
