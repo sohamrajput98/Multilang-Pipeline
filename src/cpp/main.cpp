@@ -97,3 +97,4 @@ int main() {
 // Commit 1.6: Improved algorithm performance in sorting
 // Commit 1.7: Improved algorithm performance in sorting
 // Commit 1.8: Optimized vector operations for speed
+// Commit 1.9: Fixed memory leak in helper functions
