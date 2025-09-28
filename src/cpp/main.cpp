@@ -90,3 +90,4 @@ int main() {
 // Commit 4: Fixed memory leak in helper functions
 // Commit 5: Adjusted compiler settings and flags
 // Commit 1.1: Removed unused header files
+// Commit 1.2: Improved algorithm performance in sorting
