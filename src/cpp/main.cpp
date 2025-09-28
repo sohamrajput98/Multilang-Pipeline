@@ -117,3 +117,4 @@ int main() {
 // Commit 1.26: Enhanced logging for debugging
 // Commit 1.27: Improved algorithm performance in sorting
 // Commit 1.28: Updated comments and documentation
+// Commit 1.29: Refactored class constructors for readability
