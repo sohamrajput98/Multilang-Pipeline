@@ -103,3 +103,4 @@ int main() {
 // Commit 1.12: Implemented error handling in main module
 // Commit 1.13: Fixed memory leak in helper functions
 // Commit 1.14: Enhanced logging for debugging
+// Commit 1.15: Adjusted compiler settings and flags
