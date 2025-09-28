@@ -128,3 +128,4 @@ puts "Sum of data: #{sum}"
 # Commit 2.17: Refactored methods for readability
 # Commit 2.18: Updated documentation and README
 # Commit 2.19: Enhanced logger output
+# Commit 2.20: Fixed bug in string formatting
