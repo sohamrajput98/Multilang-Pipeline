@@ -5,8 +5,19 @@ FILE_TO_EDIT="$LANG_FOLDER/Main.java"
 BRANCH="main"
 COUNTER_FILE="commit_counter.txt"
 
+DAY=$(date +%u)
+case $DAY in
+    1) NUM_COMMITS=19 ;;
+    2) NUM_COMMITS=14 ;;
+    3) NUM_COMMITS=21 ;;
+    4) NUM_COMMITS=13 ;;
+    5) NUM_COMMITS=11 ;;
+    6) NUM_COMMITS=29 ;;
+    7) NUM_COMMITS=33 ;;
+esac
+
 MESSAGES=(
-   "Added exception handling in main class"
+"Added exception handling in main class"
 "Optimized list processing methods"
 "Refactored service layer for clarity"
 "Improved thread handling in modules"
@@ -17,18 +28,18 @@ MESSAGES=(
 "Removed unused imports"
 )
 
-[ ! -f "$COUNTER_FILE" ] && echo 0 > "$COUNTER_FILE"
-NUM_COMMITS=5
+[ ! -f "$COUNTER_FILE" ] && echo "0 0" > "$COUNTER_FILE"
+read MAJOR _ < "$COUNTER_FILE"
+MAJOR=$((MAJOR + 1))
 
 for ((i=1;i<=NUM_COMMITS;i++)); do
-    COUNTER=$(cat "$COUNTER_FILE")
-    COUNTER=$((COUNTER + 1))
+    MINOR=$i
     MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-    echo "// Commit $COUNTER: $MSG" >> "$FILE_TO_EDIT"
+    echo "// Commit $MAJOR.$MINOR: $MSG" >> "$FILE_TO_EDIT"
     git checkout -B $BRANCH
     git add "$FILE_TO_EDIT" "$COUNTER_FILE"
-    git commit -m "java: commit $COUNTER - $MSG"
-    echo $COUNTER > "$COUNTER_FILE"
+    git commit -m "java: commit $MAJOR.$MINOR - $MSG"
 done
 
+echo "$MAJOR $NUM_COMMITS" > "$COUNTER_FILE"
 git push -u origin $BRANCH
