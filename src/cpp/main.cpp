@@ -112,3 +112,4 @@ int main() {
 // Commit 1.21: Removed unused header files
 // Commit 1.22: Fixed memory leak in helper functions
 // Commit 1.23: Improved algorithm performance in sorting
+// Commit 1.24: Adjusted compiler settings and flags
