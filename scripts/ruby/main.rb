@@ -150,3 +150,4 @@ puts "Sum of data: #{sum}"
 # Commit 3.6: Adjusted gem configurations
 # Commit 3.7: Enhanced logger output
 # Commit 3.8: Added error handling in main script
+# Commit 3.9: Optimized array and hash processing
