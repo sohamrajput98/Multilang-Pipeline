@@ -148,3 +148,4 @@ puts "Sum of data: #{sum}"
 # Commit 3.4: Refactored methods for readability
 # Commit 3.5: Removed unused variables
 # Commit 3.6: Adjusted gem configurations
+# Commit 3.7: Enhanced logger output
