@@ -73,3 +73,4 @@ public class Main {
 // Commit 4.22: Adjusted configuration in application.properties
 // Commit 4.23: Added exception handling in main class
 // Commit 4.24: Enhanced logging and debug statements
+// Commit 4.25: Fixed null pointer issues
