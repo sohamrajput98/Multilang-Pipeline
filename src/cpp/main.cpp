@@ -145,3 +145,4 @@ int main() {
 // Commit 5.21: Updated comments and documentation
 // Commit 5.22: Improved algorithm performance in sorting
 // Commit 5.23: Optimized vector operations for speed
+// Commit 5.24: Adjusted compiler settings and flags
