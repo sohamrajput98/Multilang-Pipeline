@@ -61,3 +61,4 @@ public class Main {
 // Commit 4.10: Fixed null pointer issues
 // Commit 4.11: Adjusted configuration in application.properties
 // Commit 4.12: Removed unused imports
+// Commit 4.13: Optimized list processing methods
