@@ -49,3 +49,4 @@ public class Main {
 // Commit 1.31
 // Commit 1.32
 // Commit 1.33
+// Commit 4.1: Optimized list processing methods
