@@ -55,3 +55,4 @@ public class Main {
 // Commit 4.4: Adjusted configuration in application.properties
 // Commit 4.5: Removed unused imports
 // Commit 4.6: Refactored service layer for clarity
+// Commit 4.7: Optimized list processing methods
