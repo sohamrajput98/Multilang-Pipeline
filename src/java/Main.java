@@ -56,3 +56,4 @@ public class Main {
 // Commit 4.5: Removed unused imports
 // Commit 4.6: Refactored service layer for clarity
 // Commit 4.7: Optimized list processing methods
+// Commit 4.8: Added exception handling in main class
