@@ -75,3 +75,4 @@ public class Main {
 // Commit 4.24: Enhanced logging and debug statements
 // Commit 4.25: Fixed null pointer issues
 // Commit 4.26: Adjusted configuration in application.properties
+// Commit 4.27: Optimized list processing methods
