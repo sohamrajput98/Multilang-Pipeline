@@ -50,3 +50,4 @@ public class Main {
 // Commit 1.32
 // Commit 1.33
 // Commit 4.1: Optimized list processing methods
+// Commit 4.2: Removed unused imports
