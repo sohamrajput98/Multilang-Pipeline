@@ -124,3 +124,4 @@ int main() {
 // Commit 1.33: Optimized vector operations for speed
 // Commit 5.1: Implemented error handling in main module
 // Commit 5.2: Refactored class constructors for readability
+// Commit 5.3: Enhanced logging for debugging
