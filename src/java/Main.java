@@ -59,3 +59,4 @@ public class Main {
 // Commit 4.8: Added exception handling in main class
 // Commit 4.9: Improved thread handling in modules
 // Commit 4.10: Fixed null pointer issues
+// Commit 4.11: Adjusted configuration in application.properties
