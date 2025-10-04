@@ -134,3 +134,4 @@ int main() {
 // Commit 5.10: Adjusted compiler settings and flags
 // Commit 5.11: Improved algorithm performance in sorting
 // Commit 5.12: Adjusted compiler settings and flags
+// Commit 5.13: Implemented error handling in main module
