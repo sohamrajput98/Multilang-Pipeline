@@ -70,3 +70,4 @@ public class Main {
 // Commit 4.19: Refactored service layer for clarity
 // Commit 4.20: Refactored service layer for clarity
 // Commit 4.21: Adjusted configuration in application.properties
+// Commit 4.22: Adjusted configuration in application.properties
