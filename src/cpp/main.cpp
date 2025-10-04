@@ -148,3 +148,4 @@ int main() {
 // Commit 5.24: Adjusted compiler settings and flags
 // Commit 5.25: Removed unused header files
 // Commit 5.26: Removed unused header files
+// Commit 5.27: Refactored class constructors for readability
