@@ -130,3 +130,4 @@ int main() {
 // Commit 5.6: Enhanced logging for debugging
 // Commit 5.7: Removed unused header files
 // Commit 5.8: Refactored class constructors for readability
+// Commit 5.9: Optimized vector operations for speed
