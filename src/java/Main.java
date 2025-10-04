@@ -53,3 +53,4 @@ public class Main {
 // Commit 4.2: Removed unused imports
 // Commit 4.3: Fixed null pointer issues
 // Commit 4.4: Adjusted configuration in application.properties
+// Commit 4.5: Removed unused imports
