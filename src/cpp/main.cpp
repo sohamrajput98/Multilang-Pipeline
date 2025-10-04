@@ -136,3 +136,4 @@ int main() {
 // Commit 5.12: Adjusted compiler settings and flags
 // Commit 5.13: Implemented error handling in main module
 // Commit 5.14: Removed unused header files
+// Commit 5.15: Optimized vector operations for speed
