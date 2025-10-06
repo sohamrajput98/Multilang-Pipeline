@@ -96,3 +96,4 @@ public class Main {
 // Commit 6.16: Removed unused imports
 // Commit 6.17: Refactored service layer for clarity
 // Commit 6.18: Updated Javadoc and README
+// Commit 6.19: Improved thread handling in modules
