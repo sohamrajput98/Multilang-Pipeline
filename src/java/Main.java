@@ -92,3 +92,4 @@ public class Main {
 // Commit 6.12: Optimized list processing methods
 // Commit 6.13: Updated Javadoc and README
 // Commit 6.14: Enhanced logging and debug statements
+// Commit 6.15: Improved thread handling in modules
