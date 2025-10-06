@@ -94,3 +94,4 @@ public class Main {
 // Commit 6.14: Enhanced logging and debug statements
 // Commit 6.15: Improved thread handling in modules
 // Commit 6.16: Removed unused imports
+// Commit 6.17: Refactored service layer for clarity
