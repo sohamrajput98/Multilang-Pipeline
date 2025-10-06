@@ -81,3 +81,4 @@ public class Main {
 // Commit 6.1: Optimized list processing methods
 // Commit 6.2: Optimized list processing methods
 // Commit 6.3: Optimized list processing methods
+// Commit 6.4: Refactored service layer for clarity
