@@ -84,3 +84,4 @@ public class Main {
 // Commit 6.4: Refactored service layer for clarity
 // Commit 6.5: Refactored service layer for clarity
 // Commit 6.6: Fixed null pointer issues
+// Commit 6.7: Updated Javadoc and README
