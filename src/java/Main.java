@@ -88,3 +88,4 @@ public class Main {
 // Commit 6.8: Fixed null pointer issues
 // Commit 6.9: Added exception handling in main class
 // Commit 6.10: Improved thread handling in modules
+// Commit 6.11: Updated Javadoc and README
