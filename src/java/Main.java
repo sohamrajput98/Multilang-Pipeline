@@ -86,3 +86,4 @@ public class Main {
 // Commit 6.6: Fixed null pointer issues
 // Commit 6.7: Updated Javadoc and README
 // Commit 6.8: Fixed null pointer issues
+// Commit 6.9: Added exception handling in main class
