@@ -173,3 +173,4 @@ puts "Sum of data: #{sum}"
 # Commit 7.18: Refactored methods for readability
 # Commit 7.19: Optimized array and hash processing
 # Commit 7.20: Updated documentation and README
+# Commit 7.21: Added error handling in main script
