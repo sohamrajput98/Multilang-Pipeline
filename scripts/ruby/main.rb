@@ -187,3 +187,4 @@ puts "Sum of data: #{sum}"
 # Commit 8.11: Optimized array and hash processing
 # Commit 8.12: Enhanced logger output
 # Commit 8.13: Optimized array and hash processing
+# Commit 8.14: Fixed bug in string formatting
