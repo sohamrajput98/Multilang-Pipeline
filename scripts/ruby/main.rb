@@ -162,3 +162,4 @@ puts "Sum of data: #{sum}"
 # Commit 7.7: Enhanced logger output
 # Commit 7.8: Removed unused variables
 # Commit 7.9: Updated documentation and README
+# Commit 7.10: Refactored methods for readability
