@@ -154,3 +154,4 @@ puts "Sum of data: #{sum}"
 # Commit 3.10: Fixed bug in string formatting
 # Commit 3.11: Added error handling in main script
 # Commit 7.1: Improved performance of loops
+# Commit 7.2: Removed unused variables
