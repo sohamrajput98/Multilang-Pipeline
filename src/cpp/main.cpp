@@ -165,3 +165,4 @@ int main() {
 // Commit 9.12: Adjusted compiler settings and flags
 // Commit 9.13: Optimized vector operations for speed
 // Commit 9.14: Refactored class constructors for readability
+// Commit 9.15: Fixed memory leak in helper functions
