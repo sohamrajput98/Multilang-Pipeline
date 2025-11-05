@@ -153,3 +153,4 @@ int main() {
 // Commit 5.29: Adjusted compiler settings and flags
 // Commit 9.1: Implemented error handling in main module
 // Commit 9.2: Optimized vector operations for speed
+// Commit 9.3: Enhanced logging for debugging
