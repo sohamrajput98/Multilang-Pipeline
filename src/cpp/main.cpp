@@ -157,3 +157,4 @@ int main() {
 // Commit 9.4: Optimized vector operations for speed
 // Commit 9.5: Removed unused header files
 // Commit 9.6: Fixed memory leak in helper functions
+// Commit 9.7: Removed unused header files
