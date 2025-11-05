@@ -151,3 +151,4 @@ int main() {
 // Commit 5.27: Refactored class constructors for readability
 // Commit 5.28: Removed unused header files
 // Commit 5.29: Adjusted compiler settings and flags
+// Commit 9.1: Implemented error handling in main module
