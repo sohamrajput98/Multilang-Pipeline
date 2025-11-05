@@ -170,3 +170,4 @@ int main() {
 // Commit 9.17: Updated comments and documentation
 // Commit 9.18: Enhanced logging for debugging
 // Commit 9.19: Removed unused header files
+// Commit 9.20: Implemented error handling in main module
