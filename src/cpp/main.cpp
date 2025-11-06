@@ -173,3 +173,4 @@ int main() {
 // Commit 9.20: Implemented error handling in main module
 // Commit 9.21: Removed unused header files
 // Commit 10.1: Optimized vector operations for speed
+// Commit 10.2: Fixed memory leak in helper functions
