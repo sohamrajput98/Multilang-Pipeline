@@ -198,3 +198,4 @@ puts "Sum of data: #{sum}"
 # Commit 11.1: Added error handling in main script
 # Commit 11.2: Removed unused variables
 # Commit 11.3: Refactored methods for readability
+# Commit 11.4: Updated documentation and README
