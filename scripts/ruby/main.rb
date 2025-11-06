@@ -205,3 +205,4 @@ puts "Sum of data: #{sum}"
 # Commit 11.8: Refactored methods for readability
 # Commit 11.9: Removed unused variables
 # Commit 11.10: Adjusted gem configurations
+# Commit 11.11: Adjusted gem configurations
