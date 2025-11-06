@@ -182,3 +182,4 @@ int main() {
 // Commit 10.8: Optimized vector operations for speed
 // Commit 10.9: Improved algorithm performance in sorting
 // Commit 10.10: Fixed memory leak in helper functions
+// Commit 10.11: Removed unused header files
