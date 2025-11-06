@@ -195,3 +195,4 @@ puts "Sum of data: #{sum}"
 # Commit 8.19: Added error handling in main script
 # Commit 8.20: Refactored methods for readability
 # Commit 8.21: Enhanced logger output
+# Commit 11.1: Added error handling in main script
