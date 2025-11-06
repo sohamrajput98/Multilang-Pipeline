@@ -176,3 +176,4 @@ int main() {
 // Commit 10.2: Fixed memory leak in helper functions
 // Commit 10.3: Removed unused header files
 // Commit 10.4: Fixed memory leak in helper functions
+// Commit 10.5: Refactored class constructors for readability
