@@ -184,3 +184,4 @@ int main() {
 // Commit 10.10: Fixed memory leak in helper functions
 // Commit 10.11: Removed unused header files
 // Commit 12.1: Enhanced logging for debugging
+// Commit 12.2: Updated comments and documentation
