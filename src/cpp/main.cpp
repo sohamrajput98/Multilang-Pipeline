@@ -195,3 +195,4 @@ int main() {
 // Commit 12.10: Refactored class constructors for readability
 // Commit 12.11: Updated comments and documentation
 // Commit 13.1: Refactored class constructors for readability
+// Commit 13.2: Enhanced logging for debugging
