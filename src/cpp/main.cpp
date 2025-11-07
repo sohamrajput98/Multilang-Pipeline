@@ -200,3 +200,4 @@ int main() {
 // Commit 13.4: Enhanced logging for debugging
 // Commit 13.5: Updated comments and documentation
 // Commit 13.6: Fixed memory leak in helper functions
+// Commit 13.7: Improved algorithm performance in sorting
