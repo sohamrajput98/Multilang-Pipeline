@@ -204,3 +204,4 @@ int main() {
 // Commit 13.8: Updated comments and documentation
 // Commit 13.9: Improved algorithm performance in sorting
 // Commit 13.10: Improved algorithm performance in sorting
+// Commit 13.11: Removed unused header files
