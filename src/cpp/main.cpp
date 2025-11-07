@@ -188,3 +188,4 @@ int main() {
 // Commit 12.3: Fixed memory leak in helper functions
 // Commit 12.4: Implemented error handling in main module
 // Commit 12.5: Enhanced logging for debugging
+// Commit 12.6: Enhanced logging for debugging
