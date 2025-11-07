@@ -197,3 +197,4 @@ int main() {
 // Commit 13.1: Refactored class constructors for readability
 // Commit 13.2: Enhanced logging for debugging
 // Commit 13.3: Optimized vector operations for speed
+// Commit 13.4: Enhanced logging for debugging
