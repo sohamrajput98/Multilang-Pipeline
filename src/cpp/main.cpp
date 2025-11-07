@@ -190,3 +190,4 @@ int main() {
 // Commit 12.5: Enhanced logging for debugging
 // Commit 12.6: Enhanced logging for debugging
 // Commit 12.7: Improved algorithm performance in sorting
+// Commit 12.8: Implemented error handling in main module
