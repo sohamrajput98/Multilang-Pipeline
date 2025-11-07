@@ -183,3 +183,4 @@ int main() {
 // Commit 10.9: Improved algorithm performance in sorting
 // Commit 10.10: Fixed memory leak in helper functions
 // Commit 10.11: Removed unused header files
+// Commit 12.1: Enhanced logging for debugging
