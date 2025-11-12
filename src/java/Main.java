@@ -112,3 +112,4 @@ public class Main {
 // Commit 15.13: Enhanced logging and debug statements
 // Commit 15.14: Enhanced logging and debug statements
 // Commit 15.15: Fixed null pointer issues
+// Commit 15.16: Adjusted configuration in application.properties
