@@ -116,3 +116,4 @@ public class Main {
 // Commit 15.17: Improved thread handling in modules
 // Commit 15.18: Added exception handling in main class
 // Commit 15.19: Enhanced logging and debug statements
+// Commit 15.20: Refactored service layer for clarity
