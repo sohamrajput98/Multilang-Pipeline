@@ -105,3 +105,4 @@ public class Main {
 // Commit 15.6: Optimized list processing methods
 // Commit 15.7: Fixed null pointer issues
 // Commit 15.8: Optimized list processing methods
+// Commit 15.9: Added exception handling in main class
