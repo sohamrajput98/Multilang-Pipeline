@@ -211,3 +211,4 @@ int main() {
 // Commit 14.4: Improved algorithm performance in sorting
 // Commit 14.5: Implemented error handling in main module
 // Commit 14.6: Optimized vector operations for speed
+// Commit 14.7: Removed unused header files
