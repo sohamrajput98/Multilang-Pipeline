@@ -218,3 +218,4 @@ int main() {
 // Commit 14.11: Fixed memory leak in helper functions
 // Commit 14.12: Removed unused header files
 // Commit 14.13: Updated comments and documentation
+// Commit 14.14: Enhanced logging for debugging
