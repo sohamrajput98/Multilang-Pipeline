@@ -114,3 +114,4 @@ public class Main {
 // Commit 15.15: Fixed null pointer issues
 // Commit 15.16: Adjusted configuration in application.properties
 // Commit 15.17: Improved thread handling in modules
+// Commit 15.18: Added exception handling in main class
