@@ -115,3 +115,4 @@ public class Main {
 // Commit 15.16: Adjusted configuration in application.properties
 // Commit 15.17: Improved thread handling in modules
 // Commit 15.18: Added exception handling in main class
+// Commit 15.19: Enhanced logging and debug statements
