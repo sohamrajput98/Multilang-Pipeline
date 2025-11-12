@@ -221,3 +221,4 @@ int main() {
 // Commit 14.14: Enhanced logging for debugging
 // Commit 14.15: Enhanced logging for debugging
 // Commit 14.16: Fixed memory leak in helper functions
+// Commit 14.17: Implemented error handling in main module
