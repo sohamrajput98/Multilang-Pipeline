@@ -99,3 +99,4 @@ public class Main {
 // Commit 6.19: Improved thread handling in modules
 // Commit 15.1: Removed unused imports
 // Commit 15.2: Improved thread handling in modules
+// Commit 15.3: Adjusted configuration in application.properties
