@@ -109,3 +109,4 @@ public class Main {
 // Commit 15.10: Fixed null pointer issues
 // Commit 15.11: Fixed null pointer issues
 // Commit 15.12: Adjusted configuration in application.properties
+// Commit 15.13: Enhanced logging and debug statements
