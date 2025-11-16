@@ -235,3 +235,4 @@ int main() {
 // Commit 16.7: Updated comments and documentation
 // Commit 16.8: Implemented error handling in main module
 // Commit 16.9: Enhanced logging for debugging
+// Commit 16.10: Implemented error handling in main module
