@@ -233,3 +233,4 @@ int main() {
 // Commit 16.5: Updated comments and documentation
 // Commit 16.6: Improved algorithm performance in sorting
 // Commit 16.7: Updated comments and documentation
+// Commit 16.8: Implemented error handling in main module
