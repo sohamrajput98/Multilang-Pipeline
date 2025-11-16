@@ -237,3 +237,4 @@ int main() {
 // Commit 16.9: Enhanced logging for debugging
 // Commit 16.10: Implemented error handling in main module
 // Commit 16.11: Refactored class constructors for readability
+// Commit 16.12: Updated comments and documentation
