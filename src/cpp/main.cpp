@@ -257,3 +257,4 @@ int main() {
 // Commit 16.29: Refactored class constructors for readability
 // Commit 16.30: Removed unused header files
 // Commit 16.31: Fixed memory leak in helper functions
+// Commit 16.32: Updated comments and documentation
