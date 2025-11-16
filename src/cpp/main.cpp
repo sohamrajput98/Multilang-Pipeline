@@ -256,3 +256,4 @@ int main() {
 // Commit 16.28: Implemented error handling in main module
 // Commit 16.29: Refactored class constructors for readability
 // Commit 16.30: Removed unused header files
+// Commit 16.31: Fixed memory leak in helper functions
