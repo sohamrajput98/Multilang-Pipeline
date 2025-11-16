@@ -246,3 +246,4 @@ int main() {
 // Commit 16.18: Removed unused header files
 // Commit 16.19: Optimized vector operations for speed
 // Commit 16.20: Fixed memory leak in helper functions
+// Commit 16.21: Refactored class constructors for readability
