@@ -275,3 +275,4 @@ int main() {
 // Commit 17.14: Optimized vector operations for speed
 // Commit 17.15: Enhanced logging for debugging
 // Commit 17.16: Implemented error handling in main module
+// Commit 17.17: Removed unused header files
