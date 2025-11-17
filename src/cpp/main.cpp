@@ -273,3 +273,4 @@ int main() {
 // Commit 17.12: Updated comments and documentation
 // Commit 17.13: Updated comments and documentation
 // Commit 17.14: Optimized vector operations for speed
+// Commit 17.15: Enhanced logging for debugging
