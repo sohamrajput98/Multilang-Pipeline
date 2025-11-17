@@ -261,3 +261,4 @@ int main() {
 // Commit 16.33: Removed unused header files
 // Commit 17.1: Removed unused header files
 // Commit 17.2: Implemented error handling in main module
+// Commit 17.3: Refactored class constructors for readability
