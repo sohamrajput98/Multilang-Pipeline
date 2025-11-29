@@ -317,3 +317,4 @@ int main() {
 // Commit 19.8: Updated comments and documentation
 // Commit 19.9: Adjusted compiler settings and flags
 // Commit 19.10: Adjusted compiler settings and flags
+// Commit 19.11: Fixed memory leak in helper functions
