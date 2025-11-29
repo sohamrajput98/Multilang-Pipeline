@@ -298,3 +298,4 @@ int main() {
 // Commit 18.18: Refactored class constructors for readability
 // Commit 18.19: Enhanced logging for debugging
 // Commit 18.20: Enhanced logging for debugging
+// Commit 18.21: Implemented error handling in main module
