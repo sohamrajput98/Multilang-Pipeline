@@ -311,3 +311,4 @@ int main() {
 // Commit 19.2: Removed unused header files
 // Commit 19.3: Enhanced logging for debugging
 // Commit 19.4: Implemented error handling in main module
+// Commit 19.5: Adjusted compiler settings and flags
