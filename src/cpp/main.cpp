@@ -327,3 +327,4 @@ int main() {
 // Commit 19.18: Implemented error handling in main module
 // Commit 19.19: Updated comments and documentation
 // Commit 19.20: Updated comments and documentation
+// Commit 19.21: Enhanced logging for debugging
