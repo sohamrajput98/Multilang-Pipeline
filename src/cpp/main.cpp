@@ -289,3 +289,4 @@ int main() {
 // Commit 18.9: Improved algorithm performance in sorting
 // Commit 18.10: Removed unused header files
 // Commit 18.11: Removed unused header files
+// Commit 18.12: Updated comments and documentation
