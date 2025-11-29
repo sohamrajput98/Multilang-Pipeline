@@ -333,3 +333,4 @@ int main() {
 // Commit 19.24: Enhanced logging for debugging
 // Commit 19.25: Updated comments and documentation
 // Commit 19.26: Enhanced logging for debugging
+// Commit 19.27: Refactored class constructors for readability
