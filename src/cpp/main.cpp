@@ -328,3 +328,4 @@ int main() {
 // Commit 19.19: Updated comments and documentation
 // Commit 19.20: Updated comments and documentation
 // Commit 19.21: Enhanced logging for debugging
+// Commit 19.22: Removed unused header files
