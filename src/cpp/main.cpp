@@ -285,3 +285,4 @@ int main() {
 // Commit 18.5: Removed unused header files
 // Commit 18.6: Removed unused header files
 // Commit 18.7: Adjusted compiler settings and flags
+// Commit 18.8: Enhanced logging for debugging
