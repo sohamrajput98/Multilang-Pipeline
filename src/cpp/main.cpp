@@ -280,3 +280,4 @@ int main() {
 // Commit 17.19: Fixed memory leak in helper functions
 // Commit 18.1: Enhanced logging for debugging
 // Commit 18.2: Enhanced logging for debugging
+// Commit 18.3: Fixed memory leak in helper functions
