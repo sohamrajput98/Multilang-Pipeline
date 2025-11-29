@@ -294,3 +294,4 @@ int main() {
 // Commit 18.14: Implemented error handling in main module
 // Commit 18.15: Improved algorithm performance in sorting
 // Commit 18.16: Enhanced logging for debugging
+// Commit 18.17: Adjusted compiler settings and flags
