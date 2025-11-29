@@ -302,3 +302,4 @@ int main() {
 // Commit 18.22: Fixed memory leak in helper functions
 // Commit 18.23: Adjusted compiler settings and flags
 // Commit 18.24: Optimized vector operations for speed
+// Commit 18.25: Fixed memory leak in helper functions
