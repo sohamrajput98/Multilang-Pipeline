@@ -320,3 +320,4 @@ int main() {
 // Commit 19.11: Fixed memory leak in helper functions
 // Commit 19.12: Implemented error handling in main module
 // Commit 19.13: Refactored class constructors for readability
+// Commit 19.14: Implemented error handling in main module
