@@ -278,3 +278,4 @@ int main() {
 // Commit 17.17: Removed unused header files
 // Commit 17.18: Enhanced logging for debugging
 // Commit 17.19: Fixed memory leak in helper functions
+// Commit 18.1: Enhanced logging for debugging
