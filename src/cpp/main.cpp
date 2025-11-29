@@ -304,3 +304,4 @@ int main() {
 // Commit 18.24: Optimized vector operations for speed
 // Commit 18.25: Fixed memory leak in helper functions
 // Commit 18.26: Refactored class constructors for readability
+// Commit 18.27: Adjusted compiler settings and flags
