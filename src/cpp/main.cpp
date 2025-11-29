@@ -287,3 +287,4 @@ int main() {
 // Commit 18.7: Adjusted compiler settings and flags
 // Commit 18.8: Enhanced logging for debugging
 // Commit 18.9: Improved algorithm performance in sorting
+// Commit 18.10: Removed unused header files
