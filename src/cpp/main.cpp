@@ -343,3 +343,4 @@ int main() {
 // Commit 20.5: Implemented error handling in main module
 // Commit 20.6: Improved algorithm performance in sorting
 // Commit 20.7: Fixed memory leak in helper functions
+// Commit 20.8: Enhanced logging for debugging
