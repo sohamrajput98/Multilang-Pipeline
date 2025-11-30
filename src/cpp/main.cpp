@@ -337,3 +337,4 @@ int main() {
 // Commit 19.28: Enhanced logging for debugging
 // Commit 19.29: Adjusted compiler settings and flags
 // Commit 20.1: Improved algorithm performance in sorting
+// Commit 20.2: Fixed memory leak in helper functions
