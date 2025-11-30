@@ -358,3 +358,4 @@ int main() {
 // Commit 20.20: Refactored class constructors for readability
 // Commit 20.21: Optimized vector operations for speed
 // Commit 20.22: Refactored class constructors for readability
+// Commit 20.23: Fixed memory leak in helper functions
