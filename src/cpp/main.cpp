@@ -355,3 +355,4 @@ int main() {
 // Commit 20.17: Refactored class constructors for readability
 // Commit 20.18: Optimized vector operations for speed
 // Commit 20.19: Optimized vector operations for speed
+// Commit 20.20: Refactored class constructors for readability
