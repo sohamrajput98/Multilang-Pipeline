@@ -401,3 +401,4 @@ int main() {
 // Commit 22.11: Removed unused header files
 // Commit 22.12: Optimized vector operations for speed
 // Commit 22.13: Adjusted compiler settings and flags
+// Commit 22.14: Fixed memory leak in helper functions
