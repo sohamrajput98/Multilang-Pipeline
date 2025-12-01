@@ -369,3 +369,4 @@ int main() {
 // Commit 20.31: Improved algorithm performance in sorting
 // Commit 20.32: Implemented error handling in main module
 // Commit 20.33: Enhanced logging for debugging
+// Commit 21.1: Refactored class constructors for readability
