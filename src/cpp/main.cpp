@@ -388,3 +388,4 @@ int main() {
 // Commit 21.17: Improved algorithm performance in sorting
 // Commit 21.18: Fixed memory leak in helper functions
 // Commit 21.19: Optimized vector operations for speed
+// Commit 22.1: Removed unused header files
