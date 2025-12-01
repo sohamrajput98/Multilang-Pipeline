@@ -398,3 +398,4 @@ int main() {
 // Commit 22.8: Updated comments and documentation
 // Commit 22.9: Implemented error handling in main module
 // Commit 22.10: Refactored class constructors for readability
+// Commit 22.11: Removed unused header files
