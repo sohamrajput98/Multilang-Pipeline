@@ -417,3 +417,4 @@ int main() {
 // Commit 23.8: Implemented error handling in main module
 // Commit 23.9: Improved algorithm performance in sorting
 // Commit 23.10: Removed unused header files
+// Commit 23.11: Enhanced logging for debugging
