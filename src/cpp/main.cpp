@@ -393,3 +393,4 @@ int main() {
 // Commit 22.3: Updated comments and documentation
 // Commit 22.4: Removed unused header files
 // Commit 22.5: Refactored class constructors for readability
+// Commit 22.6: Removed unused header files
