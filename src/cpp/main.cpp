@@ -405,3 +405,4 @@ int main() {
 // Commit 22.15: Adjusted compiler settings and flags
 // Commit 22.16: Adjusted compiler settings and flags
 // Commit 22.17: Removed unused header files
+// Commit 22.18: Adjusted compiler settings and flags
