@@ -384,3 +384,4 @@ int main() {
 // Commit 21.13: Removed unused header files
 // Commit 21.14: Updated comments and documentation
 // Commit 21.15: Adjusted compiler settings and flags
+// Commit 21.16: Fixed memory leak in helper functions
