@@ -371,3 +371,4 @@ int main() {
 // Commit 20.33: Enhanced logging for debugging
 // Commit 21.1: Refactored class constructors for readability
 // Commit 21.2: Improved algorithm performance in sorting
+// Commit 21.3: Fixed memory leak in helper functions
