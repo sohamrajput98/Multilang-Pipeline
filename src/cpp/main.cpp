@@ -385,3 +385,4 @@ int main() {
 // Commit 21.14: Updated comments and documentation
 // Commit 21.15: Adjusted compiler settings and flags
 // Commit 21.16: Fixed memory leak in helper functions
+// Commit 21.17: Improved algorithm performance in sorting
