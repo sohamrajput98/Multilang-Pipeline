@@ -396,3 +396,4 @@ int main() {
 // Commit 22.6: Removed unused header files
 // Commit 22.7: Adjusted compiler settings and flags
 // Commit 22.8: Updated comments and documentation
+// Commit 22.9: Implemented error handling in main module
