@@ -378,3 +378,4 @@ int main() {
 // Commit 21.7: Enhanced logging for debugging
 // Commit 21.8: Updated comments and documentation
 // Commit 21.9: Updated comments and documentation
+// Commit 21.10: Adjusted compiler settings and flags
