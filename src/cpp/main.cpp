@@ -400,3 +400,4 @@ int main() {
 // Commit 22.10: Refactored class constructors for readability
 // Commit 22.11: Removed unused header files
 // Commit 22.12: Optimized vector operations for speed
+// Commit 22.13: Adjusted compiler settings and flags
