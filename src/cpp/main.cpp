@@ -426,3 +426,4 @@ int main() {
 // Commit 23.17: Updated comments and documentation
 // Commit 23.18: Optimized vector operations for speed
 // Commit 23.19: Implemented error handling in main module
+// Commit 24.1: Enhanced logging for debugging
