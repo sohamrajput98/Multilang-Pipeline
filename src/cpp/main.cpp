@@ -431,3 +431,4 @@ int main() {
 // Commit 24.3: Adjusted compiler settings and flags
 // Commit 24.4: Refactored class constructors for readability
 // Commit 24.5: Enhanced logging for debugging
+// Commit 24.6: Implemented error handling in main module
