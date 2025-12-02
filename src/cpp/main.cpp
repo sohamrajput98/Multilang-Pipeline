@@ -428,3 +428,4 @@ int main() {
 // Commit 23.19: Implemented error handling in main module
 // Commit 24.1: Enhanced logging for debugging
 // Commit 24.2: Implemented error handling in main module
+// Commit 24.3: Adjusted compiler settings and flags
