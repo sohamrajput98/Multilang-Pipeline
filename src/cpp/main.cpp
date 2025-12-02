@@ -438,3 +438,4 @@ int main() {
 // Commit 24.10: Implemented error handling in main module
 // Commit 24.11: Implemented error handling in main module
 // Commit 24.12: Optimized vector operations for speed
+// Commit 24.13: Refactored class constructors for readability
