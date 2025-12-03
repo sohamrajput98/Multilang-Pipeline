@@ -443,3 +443,4 @@ int main() {
 // Commit 25.1: Enhanced logging for debugging
 // Commit 25.2: Fixed memory leak in helper functions
 // Commit 25.3: Optimized vector operations for speed
+// Commit 25.4: Adjusted compiler settings and flags
