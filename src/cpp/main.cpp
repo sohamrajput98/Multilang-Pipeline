@@ -450,3 +450,4 @@ int main() {
 // Commit 25.8: Adjusted compiler settings and flags
 // Commit 25.9: Updated comments and documentation
 // Commit 25.10: Updated comments and documentation
+// Commit 25.11: Refactored class constructors for readability
