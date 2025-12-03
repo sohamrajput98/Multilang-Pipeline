@@ -440,3 +440,4 @@ int main() {
 // Commit 24.12: Optimized vector operations for speed
 // Commit 24.13: Refactored class constructors for readability
 // Commit 24.14: Adjusted compiler settings and flags
+// Commit 25.1: Enhanced logging for debugging
