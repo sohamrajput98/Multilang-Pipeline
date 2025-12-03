@@ -447,3 +447,4 @@ int main() {
 // Commit 25.5: Enhanced logging for debugging
 // Commit 25.6: Fixed memory leak in helper functions
 // Commit 25.7: Enhanced logging for debugging
+// Commit 25.8: Adjusted compiler settings and flags
