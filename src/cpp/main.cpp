@@ -458,3 +458,4 @@ int main() {
 // Commit 25.16: Fixed memory leak in helper functions
 // Commit 25.17: Implemented error handling in main module
 // Commit 25.18: Implemented error handling in main module
+// Commit 25.19: Updated comments and documentation
