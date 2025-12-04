@@ -462,3 +462,4 @@ int main() {
 // Commit 25.20: Removed unused header files
 // Commit 25.21: Removed unused header files
 // Commit 26.1: Implemented error handling in main module
+// Commit 26.2: Enhanced logging for debugging
