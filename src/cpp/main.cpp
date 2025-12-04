@@ -472,3 +472,4 @@ int main() {
 // Commit 26.9: Refactored class constructors for readability
 // Commit 26.10: Improved algorithm performance in sorting
 // Commit 26.11: Refactored class constructors for readability
+// Commit 26.12: Adjusted compiler settings and flags
