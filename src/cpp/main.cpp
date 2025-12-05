@@ -477,3 +477,4 @@ int main() {
 // Commit 27.1: Improved algorithm performance in sorting
 // Commit 27.2: Adjusted compiler settings and flags
 // Commit 27.3: Removed unused header files
+// Commit 27.4: Updated comments and documentation
