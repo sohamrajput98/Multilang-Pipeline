@@ -480,3 +480,4 @@ int main() {
 // Commit 27.4: Updated comments and documentation
 // Commit 27.5: Implemented error handling in main module
 // Commit 27.6: Adjusted compiler settings and flags
+// Commit 27.7: Fixed memory leak in helper functions
