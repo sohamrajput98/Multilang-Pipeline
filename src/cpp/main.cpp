@@ -495,3 +495,4 @@ int main() {
 // Commit 28.8: Removed unused header files
 // Commit 28.9: Fixed memory leak in helper functions
 // Commit 28.10: Fixed memory leak in helper functions
+// Commit 28.11: Implemented error handling in main module
