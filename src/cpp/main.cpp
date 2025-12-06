@@ -500,3 +500,4 @@ int main() {
 // Commit 28.13: Adjusted compiler settings and flags
 // Commit 28.14: Adjusted compiler settings and flags
 // Commit 28.15: Implemented error handling in main module
+// Commit 28.16: Updated comments and documentation
